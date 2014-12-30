@@ -1,0 +1,23 @@
+BODY
+	{
+	MARGIN: 0px;
+	background-image: url(images/bg.gif);
+}
+a:link {
+	color: #000000;
+	text-decoration: underline;
+}
+a:visited {
+	text-decoration: underline;
+	color: #000000;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: underline;
+	color: #000000;
+}
+.style2 {font-size: small}
+.style3 {font-family: Arial, Helvetica, sans-serif}
+.style4 {font-family: Arial, Helvetica, sans-serif; font-size: small; }
